@@ -16,7 +16,7 @@ function App() {
         label="Single option"
         selected={listAValue}
         options={[
-          { label: 'Option A', value: 'a' },
+          { label: 'Welcome to the internet!', value: 'a' },
           { label: 'Option B', value: 'b' },
           { label: 'Option C', value: 'c' },
           { label: 'Option D', value: 'd' },
